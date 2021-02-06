@@ -9,13 +9,13 @@ description: "Vítejte na našich stránkách. Naleznete zde služby, které nab
 
 # Team names, titles and social links
 people:
-- name: Fanda
-  pic: 1
-  position: Odborník na práci s kůží
-
 - name: Káťa
-  pic: 2
+  pic: 1
   position: Odbornice na prácí s látkou
+
+- name: Fanda
+  pic: 2
+  position: Odborník na práci s kůží
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
