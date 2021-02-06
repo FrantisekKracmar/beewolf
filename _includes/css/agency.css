@@ -281,6 +281,7 @@ header {
 header .intro-text {
     padding-top: 100px;
     padding-bottom: 50px;
+	color: blue;
 }
 
 header .intro-text .intro-lead-in {
@@ -289,7 +290,6 @@ header .intro-text .intro-lead-in {
     font-size: 22px;
     font-style: italic;
     line-height: 22px;
-	color: blue;
 }
 
 header .intro-text .intro-heading {
