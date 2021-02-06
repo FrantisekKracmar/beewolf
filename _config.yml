@@ -11,11 +11,11 @@ description: "Vítejte na našich stránkách. Naleznete zde služby, které nab
 people:
 - name: Káťa
   pic: 1
-  position: Odbornice na prácí s látkou
+  position: Pracuje především s látkou
 
 - name: Fanda
   pic: 2
-  position: Odborník na práci s kůží
+  position: Pracuje hlavně s kůží
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
