@@ -281,7 +281,7 @@ header {
 header .intro-text {
     padding-top: 100px;
     padding-bottom: 50px;
-	color: blue;
+	color: rgb(0, 0, 0);
 }
 
 header .intro-text .intro-lead-in {
